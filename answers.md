@@ -79,3 +79,40 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         answers.md
 
+// Answer 6
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+//Answer 7 
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+// Answer 8
+commit 12c291db0d15919d0f88e230ce7eb89c87c69b8c (HEAD -> main)
+Author: Jt Hepke <jh639423@ohio.edu>
+Date:   Fri Jan 24 15:59:15 2025 -0500
+
+    Initial commit
+
+// Answer 9
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
