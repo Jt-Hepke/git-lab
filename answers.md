@@ -116,3 +116,15 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
+// Answer 10
+No the changes weren't reflected
+
+// Answer 11
+rejected
+
+// Answer 12
+Yes they were reflected
+
+// Answer 13
+.               .git            README.md
+..              .gitignore
